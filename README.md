@@ -12,8 +12,9 @@ The project aims to perform the following tasks:
 3. **Data Loading**: Load transformed data into Google BigQuery tables.
 4. **Orchestration**: Automate complete Data pipeline using Airflow ( Cloud Composer )
 
-https://github.com/PavanReddygcp/ETL-GCP-SAMPLE-PIPELINE?tab=readme-ov-file
+![image](https://github.com/user-attachments/assets/71942a5a-b543-475b-8260-bced03ab5a12)
+
 
 ## Architecture
 
-https://github.com/PavanReddygcp/ETL-GCP-SAMPLE-PIPELINE?tab=readme-ov-file
+![image](https://github.com/user-attachments/assets/a582f53b-f921-4eb2-ba80-e1e590cd09a2)
