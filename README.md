@@ -1,4 +1,4 @@
-# ETL Project with Data Fusion, Airflow, and BigQuery
+# ETL Project with Data Fusion and GCP Services 
 
 This repository contains code and configuration files for an Extract, Transform, Load (ETL) project using Google Cloud Data Fusion for data extraction, Apache Airflow/Composer for orchestration, and Google BigQuery for data loading.
 
